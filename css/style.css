@@ -1,0 +1,142 @@
+*{ 
+    margin: 0; 
+    padding: 0; 
+    box-sizing: border-box; 
+} 
+ 
+a{ 
+    text-decoration: none; 
+    color: #757575; 
+} 
+ 
+input{ 
+    position: relative; 
+    left: 750px; 
+    border-color: #c3dce3; 
+} 
+ 
+.back{ 
+    background-color: #f6f5f4; 
+} 
+.margin__text{ 
+    margin-left: 30px; 
+    color: #757575; 
+} 
+ 
+.container1__lift{ 
+    display: flex; 
+} 
+ 
+.container1{ 
+    display: flex; 
+     
+} 
+ 
+.cap__textimg{ 
+    display: flex; 
+    padding: 33px 1010px 33px 370px ; 
+} 
+ 
+.cap__right{ 
+    display: flex; 
+    padding: 24px 300px 24px 1380px; 
+    position: relative; 
+    bottom: 100px; 
+} 
+ 
+.bottom__hr{ 
+    position: relative; 
+    bottom: 100px; 
+} 
+ 
+.sigm__in{ 
+    color: black; 
+    position: relative; 
+    left: 30px; 
+} 
+ 
+.cont1__captext{ 
+    display: flex; 
+} 
+ 
+.text__home{ 
+    color: black; 
+} 
+/* cont2 */ 
+ 
+.img__cont2{ 
+    width: 933px; 
+    height: 601px; 
+    padding: 109px 116px 30px 870px; 
+} 
+ 
+.text__cont2{ 
+    padding: 151px 1019px 191px 369px; 
+    position: relative; 
+    bottom: 550px; 
+} 
+ 
+.cont2__bottom{ 
+    background-color: #AEE5F2; 
+    border-radius: 25px; 
+    padding: 5px 10px; 
+    color: #2B788B; 
+     
+} 
+ 
+.p1__cont2{ 
+    color: #2B788B; 
+    margin-bottom: 10px; 
+} 
+ 
+.h1__cont2{ 
+    font-size: 56px; 
+    margin-bottom: 10px; 
+} 
+ 
+.p2__cont2{ 
+    color: #757575; 
+    margin-bottom: 10px; 
+} 
+ 
+/* container3 */ 
+.cont3__img{ 
+    position: relative; 
+    bottom: 550px; 
+    width: 680px; 
+    height: 409px; 
+    padding: 95px 870px 95px 370px; 
+} 
+ 
+.cont3__text{ 
+    position: relative; 
+    bottom: 900px; 
+    padding: 149px 375px 149px 1070px; 
+ 
+} 
+ 
+/* container4 */ 
+ 
+.container4{ 
+    display: flex; 
+    position: relative; 
+    bottom: 980px; 
+    padding: 52px 57px 38px 104px; 
+} 
+ 
+.margin__left{ 
+    margin-left: 800px; 
+} 
+ 
+/* container5 */ 
+ 
+.container5{ 
+    display: flex; 
+    flex-direction: column; 
+    text-align: center; 
+} 
+ 
+.email__password{ 
+    width: 363px; 
+    height: 70px; 
+}
